@@ -1,8 +1,0 @@
-表名
-汇率换算表  conversionofexchangerate
-
-
-字段名                              类型
-生效日期(expiredate)                date  
-操作人(operator)                   varchar2(25)
-美元对人民币汇率(exchangerate)     varchar2(25)
